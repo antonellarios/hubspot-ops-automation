@@ -1,0 +1,7 @@
+lead_id,contact_name,email,pipeline_stage,deal_value_usd,created_date,last_activity_date,assigned_ops_rep
+1001, Lucas Rossi ,lucas.rossi@email.com,Screening,1500,2026-07-20,2026-08-01,Marcos Gomez
+1002,Elena Morales,elena.m@consulting.com,,2400,2026-07-22,2026-08-14,Laura Rios
+1003,lucas rossi,lucas.rossi@email.com,Screening,1500,2026-07-20,2026-08-01,Marcos Gomez
+1004,Sofia Gomez,sofia.g@tech.com,Proposal Sent,5200,2026-06-15,2026-06-20,Marcos Gomez
+1005,MATIAS VERA,matias@startup.io,Lead In,800,2026-08-10,2026-08-15,Unassigned
+1006,Camila Paz,camila@finance.net,Contract Signed,12000,2026-07-01,2026-08-12,Laura Rios

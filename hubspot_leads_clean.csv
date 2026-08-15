@@ -1,0 +1,7 @@
+lead_id,contact_name,email,pipeline_stage,deal_value_usd,created_date,last_activity_date,assigned_ops_rep,es_duplicado,dias_inactivo,estado_sla
+1001,Lucas Rossi,lucas.rossi@email.com,Screening,1500,2026-07-20,2026-08-01,Marcos Gomez,False,14,ALERTA: SLA Vencido
+1002,Elena Morales,elena.m@consulting.com,Etapa no asignada,2400,2026-07-22,2026-08-14,Laura Rios,False,1,En tiempo y forma
+1003,Lucas Rossi,lucas.rossi@email.com,Screening,1500,2026-07-20,2026-08-01,Marcos Gomez,True,14,ALERTA: SLA Vencido
+1004,Sofia Gomez,sofia.g@tech.com,Proposal Sent,5200,2026-06-15,2026-06-20,Marcos Gomez,False,56,ALERTA: SLA Vencido
+1005,Matias Vera,matias@startup.io,Lead In,800,2026-08-10,2026-08-15,Unassigned,False,0,En tiempo y forma
+1006,Camila Paz,camila@finance.net,Contract Signed,12000,2026-07-01,2026-08-12,Laura Rios,False,3,Cerrado / OK
